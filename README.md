@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alinasser930@gmail.com**
 
-- 📄 Take a look at my [Resume](https://drive.google.com/drive/folders/1uL9AoD1L1zka3fhmMtcnbwqxRmv68KId?usp=sharing)
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/133TUEfTziTFFeVwLDdKYw4tURAtLr8r5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
