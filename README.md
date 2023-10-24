@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Nasser Badawy</h1>
-<h3 align="center"> Computer Engineering Student at Nile Univerity, Egypt</h3>
+<h3 align="center"> Computer Engineering Graduate from Nile University, Egypt</h3>
 
 - 🔭 I’m currently working on **`Data Engineering Projects`**
 
