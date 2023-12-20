@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-nasser-badawy-81553016b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassel42" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alibadawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassel42" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22475460/ali-nasser-badawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17994886" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/alinasserbadawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alinasserbadawy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alinasser930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alinasser930" height="30" width="40" /></a>
