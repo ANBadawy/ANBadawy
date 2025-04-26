@@ -171,29 +171,29 @@
     <tr>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=docker"                                         alt="Docker"       width="48"><br>Docker</td>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=git"                                            alt="Git"          width="48"><br>Git</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg"   alt="Spark"        width="48"><br>Spark</td>
+      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=bash"                                            alt="Bash"         width="48"><br>Bash</td>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=aws"                                            alt="AWS"          width="48"><br>AWS</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"       alt="Power BI"     width="48"><br>Power BI</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apacheairflow.svg" alt="Airflow"      width="48"><br>Airflow</td>
+      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=kafka"                                          alt="Kafka"        width="48"><br>Kafka</td>
+      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=cassandra"                                      alt="Cassandra"    width="48"><br>Cassandra</td>
     </tr>
         <!-- Row 4 -->
     <tr>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=kafka"                                          alt="Kafka"        width="48"><br>Kafka</td>
+      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg"   alt="Spark"        width="48"><br>Spark</td>
+      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"       alt="Power BI"     width="48"><br>Power BI</td>
       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachenifi.svg"    alt="NiFi"         width="48"><br>NiFi</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=bash"                                            alt="Bash"         width="48"><br>Bash</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=cassandra"                                      alt="Cassandra"    width="48"><br>Cassandra</td>
       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alteryx.svg"        alt="Alteryx"      width="48"><br>Alteryx</td>
       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg"        alt="MLflow"       width="48"><br>MLflow</td>
+      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apacheairflow.svg" alt="Airflow"      width="48"><br>Airflow</td>
     </tr>
         <!-- Row 5 -->
-    <tr>
-      <td width="100" align="center"><img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg?raw=true" alt="AutoML"   width="48"><br>AutoML</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=neo4j"                                          alt="Neo4j"        width="48"><br>Neo4j</td>
-      <td width="100" align="center"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg?raw=true"   alt="Qdrant"       width="48"><br>Qdrant</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=snowflake"                                       alt="Snowflake"    width="48"><br>Snowflake</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibmcloud.svg"      alt="IBM Cloud"    width="48"><br>IBM Cloud</td>
-      <td width="100" align="center"><img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg?raw=true" alt="GeoPandas" width="48"><br>GeoPandas</td>
-    </tr>
+<!--     <tr> -->
+<!--       <td width="100" align="center"><img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg?raw=true" alt="AutoML"   width="48"><br>AutoML</td> -->
+<!--       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=neo4j"                                          alt="Neo4j"        width="48"><br>Neo4j</td> -->
+<!--       <td width="100" align="center"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg?raw=true"   alt="Qdrant"       width="48"><br>Qdrant</td> -->
+<!--       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=snowflake"                                       alt="Snowflake"    width="48"><br>Snowflake</td> -->
+<!--       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibmcloud.svg"      alt="IBM Cloud"    width="48"><br>IBM Cloud</td> -->
+<!--       <td width="100" align="center"><img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg?raw=true" alt="GeoPandas" width="48"><br>GeoPandas</td> -->
+<!--     </tr> -->
   </table>
 </div>
 
