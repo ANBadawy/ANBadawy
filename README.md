@@ -128,19 +128,11 @@
         </a>
       </td>
       <td align="center" width="90">
-        <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+        <a href="https://leetcode.com/u/Ali_Badawy/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                alt="LeetCode" width="40" height="40" /><br>
           LeetCode
         </a>
-      </td>
-      <td align="center" width="90">
-        <a href="https://leetcode.com/u/Ali_Badawy/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-               alt="HackerEarth" width="40" height="40" /><br>
-          HackerEarth
-        </a>
-      </td>
     </tr>
   </table>
 </div>
