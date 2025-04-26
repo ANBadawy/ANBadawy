@@ -95,7 +95,7 @@
 
 
 
-<!-- # 🌐 Social links -->
+# 🌐 Social links
 <div align="center">
   <table>
     <tr>
@@ -138,7 +138,7 @@
 </div>
 
 
-<!--# 💻 My favorite tools and technologies -->
+# 💻 My favorite tools and technologies
 <div align="center">
   <table>
     <!-- Row 1 -->
