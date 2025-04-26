@@ -16,7 +16,7 @@
 <table align="center">
 <tr>
   <td><b>🔭 Currently building</b></td>
-  <td>Data-engineering side-projects & pipelines</td>
+  <td>Data-engineering/science side-projects & pipelines</td>
 </tr>
 <tr>
   <td><b>🌱 Currently learning</b></td>
@@ -24,7 +24,7 @@
 </tr>
 <tr>
   <td><b>💬 Ask me about</b></td>
-  <td>Data Engineering · ETL · Cloud infra · Python & C++</td>
+  <td>Data Engineering · ETL · Cloud infra · DL/ML </td>
 </tr>
 <tr>
   <td><b>📫 Reach me</b></td>
