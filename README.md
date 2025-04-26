@@ -274,6 +274,48 @@
         <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="48"><br>Airflow
       </td>
     </tr>
+    <!-- Row 4 -->
+    <tr>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="48"><br>Kafka
+      </td>
+      <td width="100" align="center">
+        <img src="https://raw.githubusercontent.com/apache/nifi-site/main/assets/images/nifi-logo.svg" alt="NiFi" width="48"><br>NiFi
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" width="48"><br>Neo4j
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" width="48"><br>Cassandra
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=ibmcloud" alt="IBM Cloud" width="48"><br>IBM Cloud
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=mlflow" alt="MLflow" width="48"><br>MLflow
+      </td>
+    </tr>
+    <!-- Row 5 -->
+    <tr>
+      <td width="100" align="center">
+        <img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg" alt="AutoML" width="48"><br>AutoML
+      </td>
+      <td width="100" align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" alt="Alteryx" width="48"><br>Alteryx
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48"><br>Bash
+      </td>
+      <td width="100" align="center">
+        <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg" alt="Qdrant" width="48"><br>Qdrant
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=snowflake" alt="Snowflake" width="48"><br>Snowflake
+      </td>
+      <td width="100" align="center">
+        <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg" alt="GeoPandas" width="48"><br>GeoPandas
+      </td>
+    </tr>
   </table>
 </div>
 
