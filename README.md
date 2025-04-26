@@ -209,116 +209,29 @@
 
 
 <!-- 💻 My favorite tools and technologies -->
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <table>
     <!-- Row 1 -->
     <tr>
-      <td align="center" style="width:100px">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br>Python
+      <td width="100" align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65"><br>Python
       </td>
-      <td align="center" style="width:100px">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/><br>C++
+      <td width="100" align="center">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65"><br>C++
       </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48"/><br>TensorFlow
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48"><br>TensorFlow
       </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/><br>PyTorch
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48"><br>PyTorch
       </td>
-      <td align="center" style="width:100px">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/><br>Django
+      <td width="100" align="center">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65"><br>Django
       </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/><br>MySQL
-      </td>
-    </tr>
-
-    <!-- Row 2 -->
-    <tr>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" width="48" height="48"/><br>SQLite3
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/><br>MongoDB
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48"/><br>PostgreSQL
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48"/><br>Redis
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"/><br>VS Code
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48"/><br>OpenCV
-      </td>
-    </tr>
-
-    <!-- Row 3 -->
-    <tr>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/><br>Docker
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/><br>Git
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original-wordmark.svg" alt="Spark" width="48" height="48"/><br>Spark
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48"/><br>AWS
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="48" height="48"/><br>Power BI
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="48" height="48"/><br>Airflow
-      </td>
-    </tr>
-
-    <!-- Row 4 -->
-    <tr>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="48" height="48"/><br>Kafka
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://raw.githubusercontent.com/apache/nifi-site/main/assets/images/nifi-logo.svg" alt="NiFi" width="48" height="48"/><br>NiFi
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" width="48" height="48"/><br>Neo4j
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" width="48" height="48"/><br>Cassandra
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=ibmcloud" alt="IBM Cloud" width="48" height="48"/><br>IBM Cloud
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=mlflow" alt="MLflow" width="48" height="48"/><br>MLflow
-      </td>
-    </tr>
-
-    <!-- Row 5 -->
-    <tr>
-      <td align="center" style="width:100px">
-        <img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg" alt="AutoML" width="48" height="48"/><br>AutoML
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" alt="Alteryx" width="48" height="48"/><br>Alteryx
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48"/><br>Bash
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg" alt="Qdrant" width="48" height="48"/><br>Qdrant
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://skillicons.dev/icons?i=snowflake" alt="Snowflake" width="48" height="48"/><br>Snowflake
-      </td>
-      <td align="center" style="width:100px">
-        <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg" alt="GeoPandas" width="48" height="48"/><br>GeoPandas
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"><br>MySQL
       </td>
     </tr>
   </table>
 </div>
+
