@@ -39,64 +39,62 @@
 <!-- ======================  END HERO  ====================== -->
 
 
-<!-- ======================  QUICK FACTS  ====================== -->
+<!-- ======================  ROBOTIC-STYLE QUICK FACTS CARD  ====================== -->
 
-<table align="center" style="border-collapse:collapse;">
-<!-- ─── Robotic wave banner ─────────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api
-         ?type=waving            /* keep the soft wave shape            */
-         &height=60              /* same height as before               */
-         &section=header         /* show only the top (header) portion  */
-         &color=0:1A1A1A,50:2E2E2E,100:6B6B6B  /* gun-metal gradient    */
-         &stroke=00F0FF          /* neon-cyan outline (robot glow)      */
-         &strokeWidth=2
-         &animation=twinkling"   /* subtle moving sparkles              */
-     alt="robotic wave divider"/>
+<table align="center" style="border-collapse:collapse;font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;">
+  <!-- ────── Robotic wave banner (header) ────── -->
+  <tr>
+    <td colspan="2" style="padding:0;border:none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:1A1A1A,50:2E2E2E,100:6B6B6B&stroke=00F0FF&strokeWidth=2&animation=twinkling"
+           alt="robotic wave divider"/>
+    </td>
+  </tr>
+
   <!-- Row 1 -->
   <tr>
     <td align="right" width="220"
-        style="padding:10px 16px;font-weight:600;background:#003B73;color:#fff;border-radius:12px 0 0 0;">
+        style="padding:10px 16px;font-weight:600;background:#252525;color:#FFFFFF;border-radius:12px 0 0 0;">
       🚀  Currently&nbsp;building
     </td>
     <td align="left"
-        style="padding:10px 16px;background:#0A4C8B;color:#fff;border-radius:0 12px 0 0;">
-      Data-engineering side-projects & pipelines
+        style="padding:10px 16px;background:#2E2E2E;color:#FFFFFF;border-radius:0 12px 0 0;">
+      Data-engineering side-projects&nbsp;&&nbsp;pipelines
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
     <td align="right"
-        style="padding:10px 16px;font-weight:600;background:#004C99;color:#fff;">
+        style="padding:10px 16px;font-weight:600;background:#2E2E2E;color:#FFFFFF;">
       🌱  Currently&nbsp;learning
     </td>
     <td align="left"
-        style="padding:10px 16px;background:#125DA8;color:#fff;">
-      Advanced ML & MLOps for production
+        style="padding:10px 16px;background:#383838;color:#FFFFFF;">
+      Advanced ML &amp; MLOps for production
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
     <td align="right"
-        style="padding:10px 16px;font-weight:600;background:#005CB2;color:#fff;">
+        style="padding:10px 16px;font-weight:600;background:#383838;color:#FFFFFF;">
       💬  Ask&nbsp;me&nbsp;about
     </td>
     <td align="left"
-        style="padding:10px 16px;background:#1A6BC0;color:#fff;">
-      Data Engineering · ETL · Cloud infra · Python & C++
+        style="padding:10px 16px;background:#424242;color:#FFFFFF;">
+      Data Engineering · ETL · Cloud infra · Python &amp; C++
     </td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
     <td align="right"
-        style="padding:10px 16px;font-weight:600;background:#006BCD;color:#fff;">
+        style="padding:10px 16px;font-weight:600;background:#424242;color:#FFFFFF;">
       📫  Reach&nbsp;me
     </td>
     <td align="left"
-        style="padding:10px 16px;background:#237AD8;color:#fff;">
-      <a href="mailto:alinasser930@gmail.com" style="color:#00E8FF;text-decoration:none;">
+        style="padding:10px 16px;background:#4C4C4C;color:#FFFFFF;">
+      <a href="mailto:alinasser930@gmail.com" style="color:#00F0FF;text-decoration:none;">
         alinasser930@gmail.com
       </a>
     </td>
@@ -105,18 +103,19 @@
   <!-- Row 5 -->
   <tr>
     <td align="right"
-        style="padding:10px 16px;font-weight:600;background:#007AFF;color:#fff;border-radius:0 0 0 12px;">
+        style="padding:10px 16px;font-weight:600;background:#4C4C4C;color:#FFFFFF;border-radius:0 0 0 12px;">
       📄  Résumé
     </td>
     <td align="left"
-        style="padding:10px 16px;background:#338AFA;color:#fff;border-radius:0 0 12px 0;">
+        style="padding:10px 16px;background:#565656;color:#FFFFFF;border-radius:0 0 12px 0;">
       <a href="https://drive.google.com/file/d/1It9c2yYH0fZtNa_T791YxVqHvdWKi1a3/view?usp=drive"
-         target="_blank" style="color:#00E8FF;text-decoration:none;">
-        View on Google Drive
+         target="_blank" style="color:#00F0FF;text-decoration:none;">
+        View on&nbsp;Google&nbsp;Drive
       </a>
     </td>
   </tr>
 </table>
+
 
 
 # 🌐 Social links
