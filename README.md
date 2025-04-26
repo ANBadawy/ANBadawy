@@ -43,18 +43,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="php" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="php" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="php" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="php" />
       <br>Tensorflow
     </td>
@@ -100,7 +88,3 @@
 </table>
 </div>
 
-### Views
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BigHouse0405/count.svg?"  />
-</div>
