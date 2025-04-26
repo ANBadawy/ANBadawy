@@ -38,10 +38,6 @@
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="php" />
       <br>Tensorflow
