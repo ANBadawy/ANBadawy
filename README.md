@@ -253,6 +253,27 @@
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48"><br>OpenCV
       </td>
     </tr>
+        <!-- Row 3 -->
+    <tr>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"><br>Docker
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"><br>Git
+      </td>
+      <td width="100" align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" alt="Spark" width="48"><br>Spark
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48"><br>AWS
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="48"><br>Power BI
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="48"><br>Airflow
+      </td>
+    </tr>
   </table>
 </div>
 
