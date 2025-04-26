@@ -12,14 +12,57 @@
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/1It9c2yYH0fZtNa_T791YxVqHvdWKi1a3/view?usp=drive)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alibadawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassel42" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22475460/ali-nasser-badawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17994886" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/alinasserbadawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alinasserbadawy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alinasser930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alinasser930" height="30" width="40" /></a>
-<a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ali_Badawy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@alinasser930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" /></a>
- </p>
+
+# 🌐 Social links
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.linkedin.com/in/alibadawy/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+               alt="LinkedIn" width="40" height="40" /><br>
+          LinkedIn
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://stackoverflow.com/users/22475460/ali-nasser-badawy" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+               alt="Stack Overflow" width="40" height="40" /><br>
+          Stack Overflow
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.kaggle.com/alinasserbadawy" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+               alt="Kaggle" width="40" height="40" /><br>
+          Kaggle
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.hackerrank.com/alinasser930" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+               alt="HackerRank" width="40" height="40" /><br>
+          HackerRank
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+               alt="LeetCode" width="40" height="40" /><br>
+          LeetCode
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.hackerearth.com/@alinasser930" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+               alt="HackerEarth" width="40" height="40" /><br>
+          HackerEarth
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: center;">
