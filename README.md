@@ -147,68 +147,6 @@
 
 
 # 💻 My favorite tools and technologies
-<div style="display: flex; justify-content: center;">
-  <table>
-    <!-- Row 1 -->
-    <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>
-        Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>
-        C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" /><br>
-        TensorFlow
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" /><br>
-        PyTorch
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br>
-        Django
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /><br>
-        MySQL
-      </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" /><br>
-        SQLite3
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /><br>
-        MongoDB
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" /><br>
-        PostgreSQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" /><br>
-        Redis
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /><br>
-        VS Code
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" /><br>
-        OpenCV
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<!-- 💻 My favorite tools and technologies -->
 <div align="center">
   <table>
     <!-- Row 1 -->
