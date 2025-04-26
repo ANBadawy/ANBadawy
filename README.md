@@ -232,6 +232,27 @@
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"><br>MySQL
       </td>
     </tr>
+        <!-- Row 2 -->
+    <tr>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" width="48"><br>SQLite3
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48"><br>MongoDB
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48"><br>PostgreSQL
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48"><br>Redis
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48"><br>VS Code
+      </td>
+      <td width="100" align="center">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48"><br>OpenCV
+      </td>
+    </tr>
   </table>
 </div>
 
