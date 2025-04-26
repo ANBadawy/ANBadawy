@@ -38,6 +38,84 @@
 
 <!-- ======================  END HERO  ====================== -->
 
+
+<!-- ======================  QUICK FACTS  ====================== -->
+
+<table align="center" style="border-collapse:collapse;">
+  <!-- Decorative wave -->
+  <tr>
+    <td colspan="2" style="padding:0;border:none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0066FF&height=60&section=header"/>
+    </td>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td align="right" width="220"
+        style="padding:10px 16px;font-weight:600;background:#003B73;color:#fff;border-radius:12px 0 0 0;">
+      🚀  Currently&nbsp;building
+    </td>
+    <td align="left"
+        style="padding:10px 16px;background:#0A4C8B;color:#fff;border-radius:0 12px 0 0;">
+      Data-engineering side-projects & pipelines
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="right"
+        style="padding:10px 16px;font-weight:600;background:#004C99;color:#fff;">
+      🌱  Currently&nbsp;learning
+    </td>
+    <td align="left"
+        style="padding:10px 16px;background:#125DA8;color:#fff;">
+      Advanced ML & MLOps for production
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="right"
+        style="padding:10px 16px;font-weight:600;background:#005CB2;color:#fff;">
+      💬  Ask&nbsp;me&nbsp;about
+    </td>
+    <td align="left"
+        style="padding:10px 16px;background:#1A6BC0;color:#fff;">
+      Data Engineering · ETL · Cloud infra · Python & C++
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="right"
+        style="padding:10px 16px;font-weight:600;background:#006BCD;color:#fff;">
+      📫  Reach&nbsp;me
+    </td>
+    <td align="left"
+        style="padding:10px 16px;background:#237AD8;color:#fff;">
+      <a href="mailto:alinasser930@gmail.com" style="color:#00E8FF;text-decoration:none;">
+        alinasser930@gmail.com
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td align="right"
+        style="padding:10px 16px;font-weight:600;background:#007AFF;color:#fff;border-radius:0 0 0 12px;">
+      📄  Résumé
+    </td>
+    <td align="left"
+        style="padding:10px 16px;background:#338AFA;color:#fff;border-radius:0 0 12px 0;">
+      <a href="https://drive.google.com/file/d/1It9c2yYH0fZtNa_T791YxVqHvdWKi1a3/view?usp=drive"
+         target="_blank" style="color:#00E8FF;text-decoration:none;">
+        View on Google Drive
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 # 🌐 Social links
 <div style="display: flex; justify-content: center;">
   <table>
