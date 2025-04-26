@@ -59,7 +59,7 @@
     </td>
     <td align="left"
         style="padding:10px 16px;background:#1A6BC0;color:#fff;">
-      Data Engineering · ETL · Cloud infra · Python & C++
+      Data Engineering/Science · ETL · Cloud infra · Python & ML/DL
     </td>
   </tr>
 
