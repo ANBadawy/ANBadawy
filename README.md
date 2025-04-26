@@ -7,8 +7,9 @@
 <p align="center">
   <b>Computer Engineering Graduate · Nile University (Egypt)</b> <br/>
   <img src="https://img.shields.io/badge/-Data%20Engineering-0A66C2?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Data%20Science-6F42C1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Software%20Engineering-2596be?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Data%20Science-2596be?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Software%20Engineering-6F42C1?style=for-the-badge&logo=python&logoColor=white"/>
+  
 </p>
 
 
