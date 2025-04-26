@@ -42,13 +42,16 @@
 <!-- ======================  QUICK FACTS  ====================== -->
 
 <table align="center" style="border-collapse:collapse;">
-  <!-- Decorative wave -->
-  <tr>
-    <td colspan="2" style="padding:0;border:none;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0066FF&height=60&section=header"/>
-    </td>
-  </tr>
-
+<!-- ─── Robotic wave banner ─────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api
+         ?type=waving            /* keep the soft wave shape            */
+         &height=60              /* same height as before               */
+         &section=header         /* show only the top (header) portion  */
+         &color=0:1A1A1A,50:2E2E2E,100:6B6B6B  /* gun-metal gradient    */
+         &stroke=00F0FF          /* neon-cyan outline (robot glow)      */
+         &strokeWidth=2
+         &animation=twinkling"   /* subtle moving sparkles              */
+     alt="robotic wave divider"/>
   <!-- Row 1 -->
   <tr>
     <td align="right" width="220"
