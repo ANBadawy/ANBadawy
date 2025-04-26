@@ -35,7 +35,7 @@
     </td>
     <td align="left"
         style="padding:10px 16px;background:#0A4C8B;color:#fff;border-radius:0 12px 0 0;">
-      Data-engineering side-projects & pipelines
+      Data engineering/science side projects & pipelines
     </td>
   </tr>
 
