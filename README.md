@@ -96,7 +96,7 @@
 
 
 # 🌐 Social links
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="90">
