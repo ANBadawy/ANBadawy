@@ -12,7 +12,7 @@
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/1It9c2yYH0fZtNa_T791YxVqHvdWKi1a3/view?usp=drive)
 
 
-<!-- 🌐 Social links -->
+# 🌐 Social links
 <div style="display: flex; justify-content: center;">
   <table>
     <tr>
@@ -56,7 +56,7 @@
   </table>
 </div>
 
-<!-- 💻 My favorite tools and technologies -->
+# 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: center;">
   <table>
     <!-- Row 1 -->
