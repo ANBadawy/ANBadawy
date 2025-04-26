@@ -213,119 +213,6 @@
   <table>
     <!-- Row 1 -->
     <tr>
-      <td width="100" align="center">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65"><br>Python
-      </td>
-      <td width="100" align="center">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65"><br>C++
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48"><br>TensorFlow
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48"><br>PyTorch
-      </td>
-      <td width="100" align="center">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65"><br>Django
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"><br>MySQL
-      </td>
-    </tr>
-        <!-- Row 2 -->
-    <tr>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" width="48"><br>SQLite3
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48"><br>MongoDB
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48"><br>PostgreSQL
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48"><br>Redis
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48"><br>VS Code
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48"><br>OpenCV
-      </td>
-    </tr>
-        <!-- Row 3 -->
-    <tr>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"><br>Docker
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"><br>Git
-      </td>
-      <td width="100" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" alt="Spark" width="48"><br>Spark
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48"><br>AWS
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="48"><br>Power BI
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="48"><br>Airflow
-      </td>
-    </tr>
-    <!-- Row 4 -->
-    <tr>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="48"><br>Kafka
-      </td>
-      <td width="100" align="center">
-        <img src="https://raw.githubusercontent.com/apache/nifi-site/main/assets/images/nifi-logo.svg" alt="NiFi" width="48"><br>NiFi
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" width="48"><br>Neo4j
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" width="48"><br>Cassandra
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=ibmcloud" alt="IBM Cloud" width="48"><br>IBM Cloud
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=mlflow" alt="MLflow" width="48"><br>MLflow
-      </td>
-    </tr>
-    <!-- Row 5 -->
-    <tr>
-      <td width="100" align="center">
-        <img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg" alt="AutoML" width="48"><br>AutoML
-      </td>
-      <td width="100" align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" alt="Alteryx" width="48"><br>Alteryx
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48"><br>Bash
-      </td>
-      <td width="100" align="center">
-        <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg" alt="Qdrant" width="48"><br>Qdrant
-      </td>
-      <td width="100" align="center">
-        <img src="https://skillicons.dev/icons?i=snowflake" alt="Snowflake" width="48"><br>Snowflake
-      </td>
-      <td width="100" align="center">
-        <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg" alt="GeoPandas" width="48"><br>GeoPandas
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<!-- 💻 My favorite tools and technologies -->
-<div align="center">
-  <table>
-    <!-- Row 1 -->
-    <tr>
       <td width="100" align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg"                        alt="Python"       width="65"><br>Python</td>
       <td width="100" align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg"                           alt="C++"          width="65"><br>C++</td>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=tensorflow"                                     alt="TensorFlow"   width="48"><br>TensorFlow</td>
@@ -355,18 +242,18 @@
     <tr>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=kafka"                                          alt="Kafka"        width="48"><br>Kafka</td>
       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachenifi.svg"    alt="NiFi"         width="48"><br>NiFi</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=neo4j"                                          alt="Neo4j"        width="48"><br>Neo4j</td>
+      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=bash"                                            alt="Bash"         width="48"><br>Bash</td>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=cassandra"                                      alt="Cassandra"    width="48"><br>Cassandra</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibmcloud.svg"      alt="IBM Cloud"    width="48"><br>IBM Cloud</td>
+      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alteryx.svg"        alt="Alteryx"      width="48"><br>Alteryx</td>
       <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg"        alt="MLflow"       width="48"><br>MLflow</td>
     </tr>
         <!-- Row 5 -->
     <tr>
       <td width="100" align="center"><img src="https://raw.githubusercontent.com/google/automl/master/assets/automl-logo.svg?raw=true" alt="AutoML"   width="48"><br>AutoML</td>
-      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alteryx.svg"        alt="Alteryx"      width="48"><br>Alteryx</td>
-      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=bash"                                            alt="Bash"         width="48"><br>Bash</td>
+      <td width="100" align="center"><img src="https://skillicons.dev/icons?i=neo4j"                                          alt="Neo4j"        width="48"><br>Neo4j</td>
       <td width="100" align="center"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/public/logo.svg?raw=true"   alt="Qdrant"       width="48"><br>Qdrant</td>
       <td width="100" align="center"><img src="https://skillicons.dev/icons?i=snowflake"                                       alt="Snowflake"    width="48"><br>Snowflake</td>
+      <td width="100" align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibmcloud.svg"      alt="IBM Cloud"    width="48"><br>IBM Cloud</td>
       <td width="100" align="center"><img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.svg?raw=true" alt="GeoPandas" width="48"><br>GeoPandas</td>
     </tr>
   </table>
