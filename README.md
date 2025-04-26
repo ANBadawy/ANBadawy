@@ -73,11 +73,11 @@
       <br>Redis
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="php" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="php" />
       <br>VSCode
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="php" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="php" />
       <br>OpenCV
     </td>
   </tr>  
