@@ -135,7 +135,7 @@
         </a>
       </td>
       <td align="center" width="90">
-        <a href="https://www.hackerearth.com/@alinasser930" target="_blank" rel="noreferrer">
+        <a href="https://leetcode.com/u/Ali_Badawy/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
                alt="HackerEarth" width="40" height="40" /><br>
           HackerEarth
