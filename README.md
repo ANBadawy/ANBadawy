@@ -12,6 +12,9 @@
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/1It9c2yYH0fZtNa_T791YxVqHvdWKi1a3/view?usp=drive)
 
 
+
+
+
 # 🌐 Social links
 <div style="display: flex; justify-content: center;">
   <table>
@@ -77,11 +80,11 @@
         C++
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="65" height="65" /><br>
         TensorFlow
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" /><br>
         PyTorch
       </td>
       <td align="center" width="90">
@@ -89,34 +92,34 @@
         Django
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" /><br>
         MySQL
       </td>
     </tr>
     <!-- Row 2 -->
     <tr>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" /><br>
         SQLite3
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" /><br>
         MongoDB
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="65" height="65" /><br>
         PostgreSQL
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" /><br>
         Redis
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" /><br>
         VS Code
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" /><br>
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="65" height="65" /><br>
         OpenCV
       </td>
     </tr>
