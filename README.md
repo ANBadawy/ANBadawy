@@ -189,5 +189,5 @@
   </table>
 </div>
 
-[![View my views of my profile](https://komarev.com/ghpvc/?username=nourhansowar&label=View%20my%20views%20of%20my%20profile&color=0e75b6&style=flat)](https://github.com/ANBadawy)
+![Profile views](https://komarev.com/ghpvc/?username=ANBadawy&label=Profile%20views&color=0e75b6&style=flat)
 
